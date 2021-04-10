@@ -3,6 +3,9 @@ It is an advanced file sharing system, that uses backup servers and simple load 
 
 It helps users to store and retrieve files across different platforms and devices with web or desktop software. Basically users can create backup of data to be recoverd on time using single or zip mode for multiple files.
 
+## Demo video link : [here](https://youtu.be/wvLMr-pG2gE)
+## Presentation link : [ppt link](https://drive.google.com/file/d/1GJ8cmpjqho6VvNwTgfITJpu2CoOCWVUH/view?usp=sharing)
+
 ## Basic Features:
 ### User Features:
 1. A user should be able to register login and logout to the server.
@@ -36,3 +39,14 @@ user is still able to download the file.
 Java, Java Swing, Spring Boot(for backend), SQL, JDBC, JSON/GSON
 ### Tools and IDE used:
 Postman, Github, IntelliJ
+
+## Contributors :
+Team name : come_sort
+1. [Aashish Tandon](https://github.com/aashishat718)
+2. [Bhanu Pratap Singh](https://github.com/bhallaldev22)
+3. [Shivam Gupta](https://github.com/samsoldeinstein)
+4. [Sujeet Kushwaha](https://github.com/su050300)
+
+
+![image](https://user-images.githubusercontent.com/54476719/114285013-8186a900-9a71-11eb-832d-20ecd6bff451.png)
+
